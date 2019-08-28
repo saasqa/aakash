@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Aakash Nath - QA Engineer</title>
+    <title>Aakash Nath -- QA Engineer</title>
 
 
     <!-- Custom styles for this template -->
